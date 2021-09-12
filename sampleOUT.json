@@ -1,0 +1,46 @@
+
+ {
+      "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "Cowboys kicker misses two field goals and an extra point in dramatic 31-29 loss to Buccaneers - CBS Sports",
+      "description": "It was an ugly first half for Greg Zuerlein, but he ended up redeeming himself",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-kicker-melts-down-during-first-half-of-nfl-thursday-opener-against-buccaneers/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/08/11/3e8430e8-a284-4f56-b8bd-fd92a6680456/thumbnail/1200x675/ff7162e8fcbc2442790e277319c1f36b/template.jpg",
+      "publishedAt": "2021-09-10T04:13:00Z",
+      "content": "If the Dallas Cowboys had one big problem during the first half of their opener in Tampa on Thursday night, it was definitely their kicking game. Cowboys kicker Greg Zuerlein missed two field goals a… [+3132 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "KACEY MUSGRAVES - simple times (official music video) - KaceyMusgravesVEVO",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9YUZEYTBRdjl3WEHSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-09-10T04:00:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Tumaini Carayol",
+      "title": "Emma Raducanu roars past Sakkari to set up US Open final against Fernandez - The Guardian",
+      "description": "Emma Raducanu’s fairytale run at the US Open continues after the British teenager beat Maria Sakkari under the lights of Arthur Ashe Stadium",
+      "url": "https://amp.theguardian.com/sport/2021/sep/09/emma-raducanu-maria-sakkari-leylah-annie-fernandez-us-open-tennis-semi-final",
+      "urlToImage": null,
+      "publishedAt": "2021-09-10T03:43:00Z",
+      "content": "Emma RaducanuFri 10 Sep 2021 04.43 BST\r\nWhen Emma Raducanu arrived at Flushing Meadows this year, she did not have the faintest idea of where to go. So unfamiliar was she with her surroundings, she n… [+5218 chars]"
+    }
+]
+ }
