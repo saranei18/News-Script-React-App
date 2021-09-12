@@ -1,9 +1,11 @@
 # Getting Started with News Script App
 
+Screenshot:
+![image](https://user-images.githubusercontent.com/82142571/132979376-29da0af3-cdc0-4aab-997c-57047d8575a4.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
-![image](https://user-images.githubusercontent.com/82142571/132979376-29da0af3-cdc0-4aab-997c-57047d8575a4.png)
 
 ### `npm start`
 
